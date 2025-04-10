@@ -69,7 +69,7 @@ body {
   position: absolute;
   right: -30px;
   top: 0;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 .gear1{
   position: absolute;
